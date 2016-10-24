@@ -1,0 +1,14 @@
+{
+  "button":[
+    {
+      "name": "我要打卡",
+      "type": "click",
+      "key":"menu1"
+    },
+    {
+      "name":"我的记录",
+      "type":"view",
+      "url":"url here"
+    }
+  ]
+}
